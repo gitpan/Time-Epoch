@@ -8,7 +8,7 @@ require Exporter;
 @EXPORT = qw(
 	perl2epoch epoch2perl
 );
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 
 sub perl2epoch {
